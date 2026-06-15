@@ -71,7 +71,7 @@ Open [`index.html`](index.html) locally or follow the instructions in [`SETUP-GU
 - Email: [Putrajer663@gmail.com](mailto:Putrajer663@gmail.com)
 - Location: Pangkalpinang, Bangka Belitung, Indonesia
 - LinkedIn: Add your LinkedIn URL here
-- GitHub: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username
+- GitHub: putrajundaris
 
 ## Data and Ethics Notice
 
