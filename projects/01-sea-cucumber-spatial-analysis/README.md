@@ -36,6 +36,7 @@ The main objective is to identify spatial distribution patterns and explore how 
 - Distribution map
 - Data dictionary
 - Methods diagram
+  ![](/projects/01-sea-cucumber-spatial-analysis/Workflow.png)
 - Statistical summary
 - English interpretation
 - Limitations and ethical-data note
