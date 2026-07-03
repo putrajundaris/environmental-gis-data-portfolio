@@ -50,12 +50,6 @@ A professional case summary describing my laboratory responsibilities, analytica
 
 [View project documentation](projects/02-environmental-water-quality/README.md)
 
-## Portfolio Website
-
-The included website can be published through GitHub Pages.
-
-Open [`index.html`](index.html) locally or follow the instructions in [`SETUP-GUIDE.md`](SETUP-GUIDE.md).
-
 ## Availability
 
 - Based in Indonesia, GMT+7
