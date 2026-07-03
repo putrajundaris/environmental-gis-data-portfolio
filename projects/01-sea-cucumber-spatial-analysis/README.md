@@ -33,7 +33,7 @@ The main objective is to identify spatial distribution patterns and explore how 
 
 This repository initially provides the project structure and methodological summary. The next publication stage will add:
 
-- ![Study Map Location](/Peta-Penelitian.png)
+- ![Study Map Location](/projects/01-sea-cucumber-spatial-analysis/Peta-Penelitian.png)
 - Distribution map
 - Data dictionary
 - Methods diagram
