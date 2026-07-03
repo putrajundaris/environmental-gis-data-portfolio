@@ -2,7 +2,7 @@
 
 Welcome to my professional portfolio repository.
 
-I am an early-career Biology professional based in Pangkalpinang, Indonesia (GMT+7), with practical experience in environmental laboratory analysis, water-quality testing, ecological research, GIS mapping, data analysis, and scientific reporting.
+I am an early-career Biology professional based in Pangkalpinang, Indonesia (GMT+7), with practical experience in environmental laboratory analysis, ecological research, GIS mapping, data analysis, and scientific reporting.
 
 ## Target Roles
 
@@ -10,13 +10,11 @@ I am an early-career Biology professional based in Pangkalpinang, Indonesia (GMT
 - Environmental Research Assistant
 - Environmental Data Analyst
 - Climate or Biodiversity Data Assistant
-- Scientific AI Data Evaluator
 - Remote Research and Administrative Support
 
 ## Core Skills
 
 **Environmental Laboratory**
-- Water-quality analysis
 - Coliform and microbiological testing
 - Sample handling and quality control
 - Laboratory documentation and SOP compliance
