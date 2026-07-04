@@ -1,3 +1,4 @@
+![](projects/01-sea-cucumber-spatial-analysis/Images/Cover-GIS.png)
 # Spatial Analysis of Sea Cucumber Distribution Using QGIS
 
 ## Project Overview
