@@ -1,6 +1,5 @@
-![](projects/01-sea-cucumber-spatial-analysis/Images/Cover-GIS.png)
 # Spatial Analysis of Sea Cucumber Distribution Using QGIS
-
+![](projects/01-sea-cucumber-spatial-analysis/Images/Cover-GIS.png)
 ## Project Overview
 
 This undergraduate research project examines the distribution of *Holothuria atra* in a coastal ecosystem using ecological observations, spatial analysis, and GIS-based mapping.
