@@ -38,6 +38,7 @@ The main objective is to identify spatial distribution patterns and explore how 
   ![](/projects/01-sea-cucumber-spatial-analysis/Images/Peta-stasiun-2.png)
   ![](/projects/01-sea-cucumber-spatial-analysis/Images/Peta-stasiun-3.png)
 - Data dictionary
+  [View Data excel](/projects/01-sea-cucumber-spatial-analysis/
 - Methods diagram
   ![](/projects/01-sea-cucumber-spatial-analysis/Workflow.png)
 - Statistical summary
