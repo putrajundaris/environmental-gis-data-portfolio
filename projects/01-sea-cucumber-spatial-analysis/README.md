@@ -34,6 +34,7 @@ The main objective is to identify spatial distribution patterns and explore how 
 - Study Map Location
   ![](/projects/01-sea-cucumber-spatial-analysis/Peta-Penelitian.png)
 - Distribution map
+  ![](/projects/01-sea-cucumber-spatial-analysis/Images)
 - Data dictionary
 - Methods diagram
   ![](/projects/01-sea-cucumber-spatial-analysis/Workflow.png)
