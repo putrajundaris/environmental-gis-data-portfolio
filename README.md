@@ -41,7 +41,7 @@ An ecological GIS project creating a map for difrent type of mapping of distribu
 
 An ecological GIS project creating a map for difrent type of mapping of distributed location of reserach location
 
-[View project documentation](projects/02-environmental-water-quality)
+[View project](/projects/02-Enviormental-Research-data-Map-Visualization/README.md)
 
 
 ## Availability
