@@ -93,10 +93,10 @@ Publication-ready Outputs
 
 | Category | Preview |
 |----------|---------|
-| GIS Maps | *(Insert image)* |
+| Research Location Map | *(Insert image)* |
 | Biodiversity Charts | *(Insert image)* |
 | Statistical Figures | *(Insert image)* |
-| Environmental Monitoring | *(Insert image)* |
+| Environmental Monitoring (HOME RANGE) | *(Insert image)* |
 | Publication Figures | *(Insert image)* |
 
 ---
