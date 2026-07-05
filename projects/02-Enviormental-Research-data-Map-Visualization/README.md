@@ -89,6 +89,16 @@ Scientific Visualization
 Publication-ready Outputs
 ```
 
+# 🖼 Project Gallery
+
+| Category | Preview |
+|----------|---------|
+| GIS Maps | *(Insert image)* |
+| Biodiversity Charts | *(Insert image)* |
+| Statistical Figures | *(Insert image)* |
+| Environmental Monitoring | *(Insert image)* |
+| Publication Figures | *(Insert image)* |
+
 ---
 
 # 💼 Skills Demonstrated
