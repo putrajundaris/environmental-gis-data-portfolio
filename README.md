@@ -31,9 +31,9 @@ I am an early-career Biology professional based in Pangkalpinang, Indonesia (GMT
 
 ## Featured Portfolio Work
 
-### 1. Spatial Analysis of Sea Cucumber Distribution
+### 1. Research Location Mapping
 
-An ecological GIS project examining the distribution and habitat preferences of *Holothuria atra* in a coastal ecosystem.
+An ecological GIS project creating a map for difrent type of mapping of distributed location of reserach location
 
 [View project documentation](projects/01-sea-cucumber-spatial-analysis/README.md)
 
