@@ -37,7 +37,7 @@ An ecological GIS project creating a map for difrent type of mapping of distribu
 
 [View project](projects/01-sea-cucumber-spatial-analysis/README.md)
 
-### 2. Enviormental Research data Visualization
+### 2. Enviormental Research data Map Visualization
 
 An ecological GIS project creating a map for difrent type of mapping of distributed location of reserach location
 
