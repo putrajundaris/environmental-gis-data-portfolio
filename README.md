@@ -14,13 +14,6 @@ I am an early-career Biology professional based in Pangkalpinang, Indonesia (GMT
 
 ## Core Skills
 
-**Environmental Laboratory**
-- Coliform and microbiological testing
-- Sample handling and quality control
-- Laboratory documentation and SOP compliance
-- UV-VIS spectrophotometry
-- Atomic Absorption Spectrophotometry (AAS)
-
 **GIS and Data**
 - QGIS
 - Spatial analysis
@@ -44,12 +37,6 @@ An ecological GIS project examining the distribution and habitat preferences of 
 
 [View project documentation](projects/01-sea-cucumber-spatial-analysis/README.md)
 
-### 2. Environmental Water-Quality Laboratory Experience
-
-A professional case summary describing my laboratory responsibilities, analytical workflow, quality-control practices, and data-reporting experience.
-
-[View project documentation](projects/02-environmental-water-quality/README.md)
-
 ## Availability
 
 - Based in Indonesia, GMT+7
@@ -67,8 +54,8 @@ A professional case summary describing my laboratory responsibilities, analytica
 
 ## Data and Ethics Notice
 
-This portfolio does not publish confidential government laboratory data, sensitive ecological coordinates, personal information, or employer-owned documents. Demonstration datasets should use public, synthetic, aggregated, or properly anonymized information.
+This portfolio does not publish confidential government data, sensitive ecological coordinates, personal information, or employer-owned documents. Demonstration datasets should use public, synthetic, aggregated, or properly anonymized information.
 
 ---
 
-Last updated: June 2026
+Last updated: July 2026
