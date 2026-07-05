@@ -1,0 +1,122 @@
+# Environmental Research Data & Map Visualization
+
+> A curated portfolio of publication-quality maps and scientific visualizations created from environmental research datasets using GIS, R, and Python.
+
+---
+
+## 📖 Project Overview
+
+Environmental research often involves complex spatial and statistical datasets that require effective visualization to communicate findings clearly. This project demonstrates a collection of environmental maps, scientific figures for ecological research, biodiversity monitoring, marine science, and environmental assessment.
+
+The project highlights the integration of Geographic Information Systems (GIS), statistical programming, and scientific visualization techniques to produce reproducible and publication-ready outputs such as Study Map.
+
+---
+
+## 🎯 Objectives
+
+- Produce publication-quality environmental maps
+- Develop scientific visualizations for ecological research
+- Demonstrate GIS cartography and data presentation skills
+- Communicate environmental patterns through visual storytelling
+- Build a professional portfolio of environmental graphics
+
+---
+
+## 🛠 Software & Tools
+
+### GIS Software
+- ArcGIS Pro
+- QGIS
+
+### Programming
+- R
+
+### Libraries
+- ggplot2
+- tidyverse
+- sf
+- terra
+- patchwork
+- vegan
+- lme4
+- DHARMa
+- matplotlib
+- geopandas
+
+
+# 📊 Featured Visualizations
+
+## 🗺 GIS Maps
+
+- Study Area Maps
+- Sampling Station Maps
+- Species Distribution Maps
+- Interpolation Maps
+- Land Cover Maps
+- Habitat Suitability Maps (HOME RANGE)
+
+## 📑 Publication Figures
+
+- Multi-panel Figures
+- Journal-quality Graphics
+- Scientific Infographics
+- Figure Layouts
+- Technical Report Visualizations
+
+---
+
+# 🔄 Workflow
+
+```text
+Environmental Dataset
+        │
+        ▼
+Data Cleaning & Processing
+        │
+        ▼
+Exploratory Data Analysis
+        │
+        ▼
+Statistical Analysis
+        │
+        ▼
+GIS Mapping
+        │
+        ▼
+Scientific Visualization
+        │
+        ▼
+Publication-ready Outputs
+```
+
+---
+
+# 💼 Skills Demonstrated
+
+- GIS Cartography
+- Spatial Data Visualization
+- Scientific Data Visualization
+- Environmental Data Analysis
+- Ecological Statistics
+- Publication-ready Figure Design
+- Reproducible Research
+- Data Storytelling
+
+---
+
+# 📌 Applications
+
+This project demonstrates visualization techniques applicable to:
+
+- Environmental Impact Assessment
+- Marine Ecology
+- Biodiversity Conservation
+- Climate Change Research
+- Water Quality Assessment
+- Scientific Publications
+- Technical Reports
+
+
+## 📜 License
+
+This project is released under the MIT License.
