@@ -42,6 +42,11 @@ The main objective is to identify spatial distribution patterns and explore how 
 - Methods diagram
   ![](/projects/01-sea-cucumber-spatial-analysis/Workflow.png)
 - Statistical summary
+  ![](/projects/01-sea-cucumber-spatial-analysis/Images/Spatial-analysist.png)
+  ![](/projects/01-sea-cucumber-spatial-analysis/Images/Spearman-Correlation-abiotik%26biotik.png)
+  ![](/projects/01-sea-cucumber-spatial-analysis/Images/Population-Structure-analysist.png)
+  ![](/projects/01-sea-cucumber-spatial-analysis/Images/H.atra-Body%20Length.png)
+  ![](/projects/01-sea-cucumber-spatial-analysis/Images/Expected-Substrate.png)
 - English interpretation (Key Founding)
 - Limitations and ethical-data note
 
