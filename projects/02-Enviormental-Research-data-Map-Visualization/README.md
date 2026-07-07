@@ -1,6 +1,6 @@
 # Environmental Research Data & Map Visualization
 
-> A curated portfolio of publication-quality maps and scientific visualizations created from environmental research datasets using GIS, R, and Python.
+> A curated portfolio of publication-quality maps and scientific visualizations created from environmental research datasets using GIS, R.
 
 ---
 
