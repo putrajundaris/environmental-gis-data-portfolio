@@ -63,6 +63,7 @@ The main objective is to identify spatial distribution patterns and explore how 
   This study represents observations from a single sampling period under specific tidal and environmental conditions, which may limit the temporal applicability of the results. Habitat characterization was based primarily on substrate type, while other environmental variables—such as sediment organic matter, sediment grain size, seagrass cover, macroalgal cover, and other microhabitat characteristics—were not measured. In addition, population assessment relied mainly on size structure without reproductive indicators (e.g., gonad maturity, evidence of fission, or seasonal recruitment), limiting the ability to fully evaluate population dynamics and long-term population health.
   
 - Ethical Considerations
+
   This study was conducted using non-destructive field observation methods to minimize disturbance to Holothuria atra and its habitat. No individuals were collected or harmed during sampling, and observations were carried out with minimal physical impact on the benthic environment. The findings are intended to support sustainable management and conservation of H. atra populations in the Punggur Tuing coastal area by providing baseline ecological information for future monitoring and habitat management.
 
 ---
