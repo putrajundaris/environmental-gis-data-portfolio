@@ -50,16 +50,23 @@ The main objective is to identify spatial distribution patterns and explore how 
 - English interpretation (Key Founding)
 ---
 
-- A. The spatial distribution pattern of *H. atra* at the three stations showed a clustered pattern, with a Nearest Neighbor Index (NNI) value of less than 1 across all stations, namely 0.619 at Station 1, 0.340 at Station 2, and 0.523 at Station 3. The results of the Morisita Index also showed the same pattern, with values greater than 1 across all stations. 
-- B. The population structure of *H. atra* at Punggur Tuing Beach showed that the highest number of individuals was found at Station 2. The highest density was also found at Station 2 at 327 ind/ha, while the average density across the entire study area was 243 ind/ha, which is still classified as a low density. 
-- C. The body length of *H. atra* ranged from 7–44 cm with an average of 21.96 ± 8.42 cm. The most dominant size class was 16–20 cm. The difference in body length between stations was not statistically significant, so the size variation between stations is descriptive in nature. 
-- D. The habitat preference of *H. atra* indicated that this species does not use substrates randomly. The Chi-square test results showed a significant difference between the proportion of available substrates and the substrates used by *H. atra* (χ² = 46.761; df = 3; p < 0.001). This indicates a tendency to prefer certain substrates, especially sand as a functional habitat for deposit-feeding activities. The observed aquatic environmental factors, namely temperature, salinity, pH, current, depth, and substrate proportion, were generally still within the range that supports the presence of *H. atra* in the intertidal habitat. 
-- E. The Spearman correlation results showed that the relationship between the abundance of *H. atra* and environmental factors at the 5% significance level was not significant. However, there was a tendency for a moderate positive relationship between abundance and pH, as well as Dead Coral. This indicates that the presence of *H. atra* is likely not determined by a single environmental factor, but rather by a combination of several microhabitat factors, such as substrate patches, organic matter, physical and chemical water conditions, and tidal conditions.
+- A. The spatial distribution pattern of *H. atra* at the three stations showed a clustered pattern. The results of the Morisita Index & The NNI showed the same pattern, with values greater than 1 across all stations. 
+- B. The population structure of *H. atra* at Punggur Tuing Beach showed that the highest number of individuals was found at Station 2.
+- C. The body length of *H. atra* ranged from 7–44 cm with an average of 21.96 ± 8.42 cm. The most dominant size class was 16–20 cm.  
+- D. The habitat preference of *H. atra* indicated that this species does not use substrates randomly.
+- E. there was a tendency for a moderate positive relationship between abundance and pH, as well as Dead Coral. This indicates that the presence of *H. atra* is likely not determined by a single environmental factor, but rather by a combination of several microhabitat factors, such as substrate patches, organic matter, physical and chemical water conditions, and tidal conditions.
 
 ---
 
-- Limitations and ethical-data note
+- Limitations
 
+- This study represents observations from a single sampling period under specific tidal and environmental conditions, which may limit the temporal applicability of the results. Habitat characterization was based primarily on substrate type, while other environmental variables—such as sediment organic matter, sediment grain size, seagrass cover, macroalgal cover, and other microhabitat characteristics—were not measured. In addition, population assessment relied mainly on size structure without reproductive indicators (e.g., gonad maturity, evidence of fission, or seasonal recruitment), limiting the ability to fully evaluate population dynamics and long-term population health.
+
+-Ethical Considerations
+
+-This study was conducted using non-destructive field observation methods to minimize disturbance to Holothuria atra and its habitat. No individuals were collected or harmed during sampling, and observations were carried out with minimal physical impact on the benthic environment. The findings are intended to support sustainable management and conservation of H. atra populations in the Punggur Tuing coastal area by providing baseline ecological information for future monitoring and habitat management.
+
+---
 ## Skills Demonstrated
 
 - Ecological research
