@@ -56,7 +56,7 @@ An ecological GIS project creating a map for difrent type of mapping of distribu
 
 - Email: [Putrajer663@gmail.com](mailto:Putrajer663@gmail.com)
 - Location: Pangkalpinang, Bangka Belitung, Indonesia
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: [muhammad-putra-jundaris](https://www.linkedin.com/in/muhammad-putra-jundaris-)
 - GitHub: putrajundaris
 
 ## Data and Ethics Notice
