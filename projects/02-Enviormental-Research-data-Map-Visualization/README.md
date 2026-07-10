@@ -1,5 +1,5 @@
 # Environmental Research Data & Map Visualization
-
+![](/projects/02-Enviormental-Research-data-Map-Visualization/Images/Environmental-Research-Data-&-Map-Visualization-Cover.png)
 > A curated portfolio of publication-quality maps and scientific visualizations created from environmental research datasets using GIS, R.
 
 ---
