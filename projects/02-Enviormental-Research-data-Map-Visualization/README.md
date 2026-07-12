@@ -31,19 +31,6 @@ The project highlights the integration of Geographic Information Systems (GIS), 
 ### Programming
 - R
 
-### Libraries
-- ggplot2
-- tidyverse
-- sf
-- terra
-- patchwork
-- vegan
-- lme4
-- DHARMa
-- matplotlib
-- geopandas
-
-
 # 📊 Featured Visualizations
 
 ## 🗺 GIS Maps
