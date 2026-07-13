@@ -18,8 +18,6 @@ The project highlights the integration of Geographic Information Systems (GIS), 
 - Develop scientific visualizations for ecological research
 - Demonstrate GIS cartography and data presentation skills
 - Communicate environmental patterns through visual storytelling
-- Build a professional portfolio of environmental graphics
-
 ---
 
 ## 🛠 Software & Tools
@@ -41,14 +39,6 @@ The project highlights the integration of Geographic Information Systems (GIS), 
 - Interpolation Maps
 - Land Cover Maps
 - Habitat Suitability Maps (HOME RANGE)
-
-## 📑 Publication Figures
-
-- Multi-panel Figures
-- Journal-quality Graphics
-- Scientific Infographics
-- Figure Layouts
-- Technical Report Visualizations
 
 ---
 
@@ -106,14 +96,9 @@ Publication-ready Outputs
 This project demonstrates visualization techniques applicable to:
 
 - Environmental Impact Assessment
-- Marine Ecology
+- Ecology
 - Biodiversity Conservation
 - Climate Change Research
 - Water Quality Assessment
 - Scientific Publications
 - Technical Reports
-
-
-## 📜 License
-
-This project is released under the MIT License.
